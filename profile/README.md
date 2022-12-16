@@ -7,3 +7,4 @@ Trabaja con Nosotros, queremos ayudarte en tu futuro.
 Sitios:
 - https://www.bancodebogota.com
 - https://www.labdigitalbdb.co
+- https://tech.labdigitalbdb.co
